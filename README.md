@@ -35,7 +35,7 @@ cd MatrixTilingMultiplication
 
 ##### Compile the program using:
 ```
-g++ -g tile_matmul.cpp -std=gnu++2a -Wall -o main
+g++ -g ./src/tile_matmul.cpp -std=gnu++2a -Wall -o main
 ```
 
 ### Usage
