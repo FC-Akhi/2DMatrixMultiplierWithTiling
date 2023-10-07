@@ -29,7 +29,7 @@ Ensure you have a C++ compiler installed on your machine. This code has been wri
 ##### Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/[YourUsername]/MatrixTilingMultiplication.git
+git clone https://github.com/FahimaChowdhury/2DMatrixMultiplierWithTiling.git
 cd MatrixTilingMultiplication
 ```
 
